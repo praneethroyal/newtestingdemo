@@ -1,0 +1,9 @@
+{
+	"name": "SAI-DEV-DF",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3bdae972-6ac3-4930-be10-abe3be0ef631",
+		"tenantId": "eee26b35-91b5-418e-9e68-c0233813b9a5"
+	}
+}
