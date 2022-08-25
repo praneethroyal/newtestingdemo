@@ -1,0 +1,19 @@
+{
+	"name": "dev_dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_for_Devblob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "blob.txt",
+				"folderPath": "Input",
+				"container": "developmentcontainer"
+			}
+		}
+	}
+}
